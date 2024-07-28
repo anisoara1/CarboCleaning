@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/CarboCleaning/static/css/main.ddbdadd3.css",
-    "main.js": "/CarboCleaning/static/js/main.042befc3.js",
+    "main.css": "/CarboCleaning/static/css/main.6698657c.css",
+    "main.js": "/CarboCleaning/static/js/main.f16fae12.js",
+    "static/media/20181002_110344.jpg": "/CarboCleaning/static/media/20181002_110344.ba3ac16abbe9e23fca66.jpg",
+    "static/media/20181002_110356.jpg": "/CarboCleaning/static/media/20181002_110356.6ba22fbfaf4859ef18fb.jpg",
+    "static/media/20181002_110303.jpg": "/CarboCleaning/static/media/20181002_110303.73c391a20a517e3d1080.jpg",
     "index.html": "/CarboCleaning/index.html",
-    "main.ddbdadd3.css.map": "/CarboCleaning/static/css/main.ddbdadd3.css.map",
-    "main.042befc3.js.map": "/CarboCleaning/static/js/main.042befc3.js.map"
+    "main.6698657c.css.map": "/CarboCleaning/static/css/main.6698657c.css.map",
+    "main.f16fae12.js.map": "/CarboCleaning/static/js/main.f16fae12.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddbdadd3.css",
-    "static/js/main.042befc3.js"
+    "static/css/main.6698657c.css",
+    "static/js/main.f16fae12.js"
   ]
 }
