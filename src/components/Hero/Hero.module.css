@@ -1,11 +1,37 @@
 .hero {
-  width: 100%;
   margin-top: -10vh;
-  height: 100vh;
+  width: 100%;
+  height: 110vh;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
-  padding: 0 10px;
-  background-color: rgb(238, 238, 237);
-  border-color: rgb(42, 165, 42);
+  overflow: hidden;
+  z-index: -5;
+}
+
+.slideContainer {
+  width: 100%;
+  height: 110vh;
+}
+
+.eachFade {
+  width: 100%;
+  height: 110vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+}
+
+.BgImg1 {
+  background: url('../../images/20181002_110303.jpg') center / cover no-repeat;
+}
+
+.BgImg2 {
+  background: url('../../images/20181002_110344.jpg') center / cover no-repeat;
+}
+
+.BgImg3 {
+  background: url('../../images/20181002_110356.jpg') center / cover no-repeat;
 }
