@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CarboCleaning/static/css/main.b4b1b41d.css",
+    "main.css": "/CarboCleaning/static/css/main.d4032bdd.css",
     "main.js": "/CarboCleaning/static/js/main.f16fae12.js",
-    "static/media/_8bff73ed-1b1e-493c-aa19-70c4246f7423.jpg": "/CarboCleaning/static/media/_8bff73ed-1b1e-493c-aa19-70c4246f7423.133539c5ff11ddcaa8a0.jpg",
-    "static/media/_515d38db-6aa2-4e98-a7e0-87e9738f6d7d.jpg": "/CarboCleaning/static/media/_515d38db-6aa2-4e98-a7e0-87e9738f6d7d.903bc519432418c78326.jpg",
-    "static/media/_6129e7e2-f9d1-4a49-a5fb-90cd15546db7.jpg": "/CarboCleaning/static/media/_6129e7e2-f9d1-4a49-a5fb-90cd15546db7.a31089c6d17b1b0c10bd.jpg",
+    "static/media/8bff73ed-1b1e-493c-aa19-70c4246f7423.jpg": "/CarboCleaning/static/media/8bff73ed-1b1e-493c-aa19-70c4246f7423.133539c5ff11ddcaa8a0.jpg",
+    "static/media/515d38db-6aa2-4e98-a7e0-87e9738f6d7d.jpg": "/CarboCleaning/static/media/515d38db-6aa2-4e98-a7e0-87e9738f6d7d.903bc519432418c78326.jpg",
+    "static/media/6129e7e2-f9d1-4a49-a5fb-90cd15546db7.jpg": "/CarboCleaning/static/media/6129e7e2-f9d1-4a49-a5fb-90cd15546db7.a31089c6d17b1b0c10bd.jpg",
     "index.html": "/CarboCleaning/index.html",
-    "main.b4b1b41d.css.map": "/CarboCleaning/static/css/main.b4b1b41d.css.map",
+    "main.d4032bdd.css.map": "/CarboCleaning/static/css/main.d4032bdd.css.map",
     "main.f16fae12.js.map": "/CarboCleaning/static/js/main.f16fae12.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4b1b41d.css",
+    "static/css/main.d4032bdd.css",
     "static/js/main.f16fae12.js"
   ]
 }
