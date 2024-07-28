@@ -25,13 +25,16 @@
 }
 
 .BgImg1 {
-  background: url('../../images/20181002_110303.jpg') center / cover no-repeat;
+  background: url('../../images/_515d38db-6aa2-4e98-a7e0-87e9738f6d7d.jpg')
+    center / cover no-repeat;
 }
 
 .BgImg2 {
-  background: url('../../images/20181002_110344.jpg') center / cover no-repeat;
+  background: url('../../images/_8bff73ed-1b1e-493c-aa19-70c4246f7423.jpg')
+    center / cover no-repeat;
 }
 
 .BgImg3 {
-  background: url('../../images/20181002_110356.jpg') center / cover no-repeat;
+  background: url('../../images/_6129e7e2-f9d1-4a49-a5fb-90cd15546db7.jpg')
+    center / cover no-repeat;
 }
