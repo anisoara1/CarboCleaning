@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/anisoara1/CarboCleaning/static/css/main.ff69ee20.css",
-    "main.js": "/anisoara1/CarboCleaning/static/js/main.971154fa.js",
+    "main.js": "/anisoara1/CarboCleaning/static/js/main.042befc3.js",
     "index.html": "/anisoara1/CarboCleaning/index.html",
     "main.ff69ee20.css.map": "/anisoara1/CarboCleaning/static/css/main.ff69ee20.css.map",
-    "main.971154fa.js.map": "/anisoara1/CarboCleaning/static/js/main.971154fa.js.map"
+    "main.042befc3.js.map": "/anisoara1/CarboCleaning/static/js/main.042befc3.js.map"
   },
   "entrypoints": [
     "static/css/main.ff69ee20.css",
-    "static/js/main.971154fa.js"
+    "static/js/main.042befc3.js"
   ]
 }
