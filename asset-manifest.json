@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CarboCleaning/static/css/main.ff69ee20.css",
+    "main.css": "/CarboCleaning/static/css/main.ddbdadd3.css",
     "main.js": "/CarboCleaning/static/js/main.042befc3.js",
     "index.html": "/CarboCleaning/index.html",
-    "main.ff69ee20.css.map": "/CarboCleaning/static/css/main.ff69ee20.css.map",
+    "main.ddbdadd3.css.map": "/CarboCleaning/static/css/main.ddbdadd3.css.map",
     "main.042befc3.js.map": "/CarboCleaning/static/js/main.042befc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff69ee20.css",
+    "static/css/main.ddbdadd3.css",
     "static/js/main.042befc3.js"
   ]
 }
